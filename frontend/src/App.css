@@ -1,0 +1,11 @@
+
+.app-container {
+  text-align: center;
+  padding: 20px;
+  height: 100vh;
+  background-image: url("/Movies_img.jpg");
+  background-size: cover;
+  background-position: center;
+  background-repeat: no-repeat;
+  color: white; /* Adjust text color for better visibility */
+} 

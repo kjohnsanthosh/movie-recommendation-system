@@ -1,0 +1,21 @@
+body {
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    overflow-x: hidden;
+}
+  
+.recommendation-container {
+    max-width: 80%;
+    margin: auto;
+    padding: 20px;
+    background-color: rgba(0, 0, 0, 0.7); /* Semi-transparent background */
+    color: white;
+    border-radius: 10px;
+}
+.recommendation-container {
+    overflow: auto;
+    max-height: 500px;
+}
+  
+  
